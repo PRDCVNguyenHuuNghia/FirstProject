@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-#include "NghiaNH_greetings.h"
-void NghiaNH_get_greeting(char * buffer) {
+#include "nghianh_greetings.h"
+void nghianh_get_greeting(char * buffer) {
 
     if(buffer == NULL) {
         return;
