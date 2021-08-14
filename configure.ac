@@ -1,5 +1,5 @@
 
-AC_INIT([NghiaNH_Greetings lib], 1.0)
+AC_INIT([NghiaNH Greetings lib], 1.0)
 AM_INIT_AUTOMAKE
 AC_PROG_CC
 AC_CONFIG_MACRO_DIR([m4])
