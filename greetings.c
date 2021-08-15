@@ -7,7 +7,7 @@ void get_greeting(char * buffer) {
         return;
     }
 
-    char greeting[] = "Hello NghiaNH from the lib\n";
+    char greeting[] = "Hello NghiaNH from the MODIFIED lib\n";
     strcpy(buffer, greeting);
     return;
 }
